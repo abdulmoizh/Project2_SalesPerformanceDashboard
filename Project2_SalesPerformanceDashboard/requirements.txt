@@ -1,0 +1,76 @@
+1. Jupyter Notebook (sales_analysis.ipynb)
+
+    Import, clean, and preprocess the dataset.
+
+    Handle missing values, duplicates, and incorrect data types.
+
+    Compute KPIs:
+
+    Total revenue
+
+    Total orders
+
+    Average order value
+
+    Month-over-month (MoM) revenue growth
+
+    Create visuals (with Matplotlib/Seaborn):
+
+    Monthly revenue trend (line chart)
+
+    Top 10 products by revenue (bar chart)
+
+    Category contribution (pie/bar)
+
+    Revenue by city (bar chart)
+
+    Online vs In-Store revenue comparison (bar/stacked chart)
+
+    Each chart must include title, labels, and short interpretation.
+
+
+2. Excel File (sales_dashboard.xlsx)
+
+    Pivot table: Revenue by city & channel.
+
+    Pivot table: Revenue by product category.
+
+    Add slicers (filters) for: Month & Category.
+
+    A summary sheet with total revenue, orders, AOV.
+
+3. Power BI Dashboard (sales_dashboard.pbix)
+
+    Page 1: Overview → KPIs(Total revenue, Total orders, Average order value, Month-over-month (MoM) revenue growth) + Monthly Revenue Trend.
+
+    Page 2:      → Top 10 Products, Category Share.
+
+    Page 3: Geography & Channel → Revenue by City, Online vs. In-Store.
+
+    Must be interactive (filters for month/category).
+
+4. Postgres SQL Script (sales_queries.sql)
+
+    Table schema for the dataset.
+
+    Load script (COPY/INSERT to populate).
+
+    At least 5 queries:
+
+        Monthly revenue by city
+
+        Top 10 products by revenue
+
+        Orders per sales channel
+
+        Average order value per category
+
+        Month-over-month revenue growth
+
+5. Executive Summary (executive_summary.pdf or .docx)
+
+    3-4 bullet points with main findings (e.g., “Karachi Online channel contributed 40% of sales”).
+
+    1 chart (most powerful visualization, like revenue trend).
+
+    1 recommendation for management (e.g., “Invest more in online marketing for Karachi since it has the highest AOV”).

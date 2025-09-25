@@ -1,0 +1,50 @@
+Total Orders = 50000 Orders
+Average Order Value = Rs. 759.58
+
+Total Revenue = Rs. 37978934.79
+blob:vscode-webview://0t3v6shlqrbaombb6a846c2g3sn95ps50867eld4sp4tr6jamesh/c71a8c7f-0913-4a0a-a575-31df418c6726
+
+Top 10 products by revenue = Ball,Car,Charger,Cooker,Doll,Frying Pan,Headphones,Hotpot,Jacket,Jeans
+blob:vscode-webview://0t3v6shlqrbaombb6a846c2g3sn95ps50867eld4sp4tr6jamesh/e5a7d237-c9f8-49ec-b204-f69bbd3cd13e
+
+
+Category contribution = 
+Clothing       20.33
+Electronics    20.02
+Groceries      19.80
+Kitchenware    20.02
+Toys           19.84
+blob:vscode-webview://0t3v6shlqrbaombb6a846c2g3sn95ps50867eld4sp4tr6jamesh/3089565d-8263-47dd-96b6-c615aa58eedb
+
+Revenue by city = 
+Faisalabad    5427078.56
+Islamabad     5408609.34
+Karachi       5302598.83
+Lahore        5429176.28
+Multan        5424158.85
+Peshawar      5485921.96
+Quetta        5501390.97
+blob:vscode-webview://0t3v6shlqrbaombb6a846c2g3sn95ps50867eld4sp4tr6jamesh/78f4bb42-26eb-4708-ab24-07a40c97dc73
+
+Online vs In-Store revenue comparison = In-Store: 18818814.93 | Online: 19160119.86
+blob:vscode-webview://0t3v6shlqrbaombb6a846c2g3sn95ps50867eld4sp4tr6jamesh/0919b98d-be2b-4abb-aa0d-66e770a85128
+
+Month-over-month (MoM) revenue growth = 
+January         0%
+February    -5.93%
+March        2.61%
+April        1.16%
+May          2.63%
+June        -2.90%
+July         3.05%
+August      -0.11%
+September   -4.97%
+October      2.29%
+November     0.47%
+December     3.15%
+
+
+RECOMMENDATION:
+1. You really need to focus on Monthly Growth because month by month it seems to be growing 2 to 3% on Average but the problem is this avergade growth rate is just a number, in ground this growth is being killed due to negative growth in months like Feb, June, August, Sept. Now this is also not a normal thing because in every season this negative growth is coming with an average of 2 to 3% that just killed the positive growth rate. Your products are also not seasonal that shows fluctuation in every season, these are ordinary products.
+
+2. I believe your all category brings you almost equal amount of revenue, the thing to notice is the Online channel is a little ahead of offline channel which shows it has potential to bring more revenue and growth so you should also focus on online channel too but offline channel is also not bad. All cities are bringing almost equal amount of business but the point to be noticed the figure must not be almost equal, it must be in positive but the cities like Karachi and Lahore must bring more sales generally speaking but if the other cities bring equal business of karachi and lahore, then you should really focus more on other cities especially Quetta because there is potential to beat these two cities if strategies are planned and executed excellently.
